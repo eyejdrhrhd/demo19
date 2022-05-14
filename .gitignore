@@ -174,4 +174,4 @@ dist
 .svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/node,angular
-file2.txt
+#file2.txt
